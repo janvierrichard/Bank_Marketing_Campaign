@@ -13,4 +13,4 @@ Specifically, the bank conducted a telemarketing campaign to promote one of its 
 <br><br>
 
 
-The full explanation of this project can be viewed [here](https://docs.google.com/presentation/d/1S__dvT_SuF-DcmORy019T-5DmHL09bBK/edit?usp=sharing&ouid=110400976351407872936&rtpof=true&sd=true).
+The full explanation of this project can be viewed [here](https://drive.google.com/file/d/1sUCphH-LBjT1BymHpRUjuHymp0YZPBir/view?usp=sharing).

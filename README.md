@@ -4,4 +4,13 @@ Bank B, a fictional bank, provides various financial services/products such as s
 
 Specifically, the bank conducted a telemarketing campaign to promote one of its financial products, 'Term Deposits,' with the aim of fostering long-term relationships with existing customers. Bank B also want to know their lifecycle product that can be compared to other products and evaluate their marketing tactics.
 
+## 📌 Objectives
+*   Perform initial data exploration
+*   Perform data preprocessing
+*   Perform EDA
+*   Perform hypothesis testing (statistical and non-statistical)
+*   Perform feature engineering (one-hot encoding, label encoding, and binning)
+<br><br>
+
+
 The full explanation of this project can be viewed [here](https://docs.google.com/presentation/d/1S__dvT_SuF-DcmORy019T-5DmHL09bBK/edit?usp=sharing&ouid=110400976351407872936&rtpof=true&sd=true).
